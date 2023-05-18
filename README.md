@@ -6,5 +6,5 @@ Data: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germa
 
 Models used and scores achieved:
 
-![image](https://github.com/BenBlack0902/German_Flat_Rental/assets/60020328/c24d4c19-c571-46e0-8904-b275fc3d7fa1)
+![image](https://github.com/BenBlack0902/German_Flat_Rental/assets/60020328/08d52085-fd8a-4f12-8608-8f3f86c71e30)
 
