@@ -1,4 +1,5 @@
-# German_Flat_Rental
+# German Apartment Rental Dataset
+
 Different Machine Learning models
 
 Data: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany?resource=download
