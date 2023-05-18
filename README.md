@@ -1,8 +1,8 @@
 # German Apartment Rental Dataset
 
-Different Machine Learning models
+Different Machine Learning models were applied on @Data and their performance metrics harvested.
 
-Data: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany?resource=download
+@Data: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany?resource=download
 
 Models used and scores achieved:
 
